@@ -1,0 +1,88 @@
+.container {
+    margin-bottom: 30px;
+}
+
+.pink-bg {
+    background-color: #fceae8;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.price {
+    font-size: 41px;
+    color: #ff136f;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+
+.buy-now-button {
+    width: 179px;
+    height: 57px;
+    border-radius: 9px;
+    color: #fff;
+    background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+    cursor: pointer;
+}
+
+.categories h1 {
+    color: #fff;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+.cat1 {
+    /* width: 350px;
+  height: 200px;
+  border-radius: 18px; */
+    background-image: linear-gradient(126deg, #ff9c35 0%, #ffd019 100%);
+}
+
+.cat2 {
+    /* width: 350px;
+  height: 200px;
+  border-radius: 18px; */
+    background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+}
+
+.cat3 {
+    /* width: 350px;
+  height: 200px;
+  border-radius: 18px; */
+    background-image: linear-gradient(157deg, #4289ff 0%, #3f07f8 100%);
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.subscribe {
+    border-radius: 9px;
+    color: #fff;
+    background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+    cursor: pointer;
+    height: 40px;
+    width: 75px;
+}
+
+.lightPink-bg {
+    height: 300px;
+    background-color: antiquewhite;
+    padding-top: 100px;
+}
